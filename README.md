@@ -7,7 +7,7 @@ $ alias dotfiles='/usr/bin/git --git-dir="$HOME/.dotfiles" --work-tree="$HOME"'
 $ dotfiles config --local status.showUntrackedFiles no
 ```
 
-## Setup fotfiles on a new machine 
+## Setup dotfiles on a new machine 
 ```shell
 $ git clone --bare <git-repo-url> "$HOME/.dotfiles"
 $ alias dotfiles='/usr/bin/git --git-dir="$HOME/.dotfiles" --work-tree="$HOME"'

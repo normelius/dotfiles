@@ -1,0 +1,9 @@
+[user]
+	email = a.normelius@gmail.com
+	name = Anton Normelius
+
+[init]
+    defaultBranch = main
+
+[core]
+    editor = vi
